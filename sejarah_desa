@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Basic Page - Website Desa</title>
+</head>
+
+<body>
+<h1>Sejarah Desa </h1>
+<p>Lorem Ipsmum</p>
+
+<h3>Tahun terbentuk</h3>
+<p>Aenean quis elit sodales, mattis nisl eu, tempus ligula. Aenean molestie sagittis magna nec blandit. Sed arcu ante, suscipit eget lacus eget, interdum aliquet justo. Quisque bibendum nec eros a tristique. Nulla suscipit lacus eget ipsum tristique, id sagittis tortor tempus. Etiam nec nunc efficitur, hendrerit lacus eget, efficitur nisi. Etiam ac lectus semper velit elementum dignissim. Cras aliquam commodo lorem id placerat. Maecenas posuere mi at orci vestibulum, quis fermentum justo pretium. Etiam vel purus pulvinar, elementum urna mattis, viverra enim. Maecenas ut mattis nisi. Aliquam erat volutpat. Nam mi nisl, bibendum ut porta non, condimentum at elit. Quisque convallis turpis tellus, vitae interdum felis pharetra at.
+
+</p>
+<h3>Asal Nama nama</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in diam massa. Cras condimentum purus at ligula semper porttitor at ac erat. In bibendum urna rutrum erat ornare facilisis. Sed convallis faucibus mi, eu vestibulum nisl sodales nec. Maecenas dui sem, dignissim quis quam id, imperdiet pellentesque sem. Aenean ut sapien ligula. Cras hendrerit sit amet diam aliquet aliquam. Duis ut libero felis. Nulla ac nulla a dui convallis molestie. Donec in tincidunt mauris.
+
+</p>
+<h3>Pembagian Desa</h3>
+<p>Donec suscipit eget magna id aliquet. Nunc ornare iaculis erat suscipit cursus. Etiam fringilla nunc nulla, molestie mollis ligula consequat id. Morbi luctus accumsan lorem, eu scelerisque velit placerat at. Aliquam ex sapien, blandit vel nulla at, fermentum pharetra ipsum. Nulla tempus tincidunt neque, non ultricies libero volutpat eget. In ipsum tellus, convallis vel risus ut, congue accumsan velit. Ut pretium volutpat nisi vel pellentesque. Proin eleifend mattis ligula, quis porttitor ante pellentesque nec. Proin eu faucibus nisl. Sed odio eros, pharetra sit amet rhoncus sit amet, aliquam ut nulla. Phasellus felis neque, tristique at consequat ut, vulputate vitae purus. Morbi condimentum in nunc vel fermentum.
+
+</p>
+<h3>Nama Nama Pejabat Kepala Desa</h3>
+<p>In hac habitasse platea dictumst. Ut malesuada fringilla diam, nec suscipit dolor lobortis eget. Vivamus finibus placerat felis id gravida. Vivamus rutrum tempus elementum. Curabitur a ligula felis. Proin mollis est nec interdum condimentum. Etiam dolor lacus, suscipit sed laoreet accumsan, fringilla ac ante. Pellentesque vel mattis est. Pellentesque tortor velit, cursus ac imperdiet sit amet, ultricies quis leo.
+
+</p>
+
+<table>
+<tr><th>No.</th><th>Nama</th><th>Periode</th><th>Alamat</th></tr>
+<tr><td>elementum</td><td>elementum</td><td>elementum</td><td>elementum</td></tr>
+</table>
+
+<p>Vestibulum felis nisl, elementum sit amet molestie quis, tincidunt ac est. Mauris efficitur consequat sodales. Quisque mollis, massa vitae varius sodales, justo lacus ullamcorper turpis, pulvinar rhoncus velit ex id eros. Nunc feugiat aliquam est ac sollicitudin. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris eget felis in est eleifend aliquet. Fusce felis ante, feugiat sed mauris at, ultricies scelerisque nunc.
+
+</p>
+<p>Misi adalah suatu pernyataan tentang apa yang harus dikerjakan oleh perusahaan atau lembaga dalam usaha mewujudkan Visi tersebut. Misi perusahaan di artikan sebagai tujuan dan alasan mengapa perusahaan atau lembaga itu dibuat. Misi juga akan memberikan arah sekaligus batasan-batasan proses pencapaian tujuan.</p>
+
+<ul>
+<i>misi satu</i>
+<i>misi dua</i>
+<i>misi tigs</i>
+</ul>
+
+
+</body>
+
+
+</html
